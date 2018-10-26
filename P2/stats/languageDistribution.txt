@@ -1,0 +1,5 @@
+slovak percent:  0.0512337396977 	5.1
+french percent:  0.510937844689  	51.1
+spanish percent:  0.253054965879 	25.3
+german percent:  0.133857954484		13.4	
+polish percent:  0.0509154952498	5.1

@@ -1,0 +1,35 @@
+Letters in Every Language:
+€ê‰lï1©«ª±032547698èâå_òaàcbedgfihkjmìonqpsrutwvyxûz
+
+
+ONLY slovak
+
+
+NOT slovak
+ƒ„‡ˆ‹ŠŒ• £¢¤¦¨¬¯®µ»¾ãçæéëíñğóõô÷ùü
+
+ONLY french
+ŠŒ¯¾
+
+NOT french
+®
+
+ONLY spanish
+®
+
+NOT spanish
+ŠŒ¯¾
+
+ONLY german
+
+
+NOT german
+ƒ„‡ˆ‹ŠŒ ¥¬¯®µ´»¼¾áäæéëíñóõôöøıü
+
+ONLY polish
+
+
+NOT polish
+ƒ„‡ˆ‹ŠŒ•¡£¢¥¨¯®µ´»¾æëíîñğõôöøü
+
+

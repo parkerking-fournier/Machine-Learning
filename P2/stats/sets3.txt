@@ -1,0 +1,15 @@
+german NOT polish,slovak
+¨£¢•ğ
+
+polish NOT german,slovak
+é ó¬
+
+slovak NOT german,polish
+¥´öø
+
+french NOT spanish
+ŠŒ¯¾
+
+spanish NOT french
+®
+
